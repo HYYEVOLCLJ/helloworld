@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bbbca49-af54-47bf-8d3e-251fa8e11d62" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\develop\goroot" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yIr04Ax7C7I1NW8lzqWvCNkJQp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cconghu\Desktop\helloworld" />
+    </key>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: hello --story=868099377 &#10;&#10;测试hello" />
+    <MESSAGE value="feat: world --story=868099377&#10;&#10;测试world" />
+    <MESSAGE value="测试hello&#10;&#10;测试内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试hello&#10;&#10;测试内容" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2800" y="630" key="CommitChangelistDialog2" timestamp="1631949939744">
+      <screen x="1920" y="383" width="2560" height="1400" />
+    </state>
+    <state x="2800" y="630" key="CommitChangelistDialog2/0.0.1920.1040/1920.383.2560.1400@1920.383.2560.1400" timestamp="1631949939744" />
+    <state x="2012" y="475" width="2376" height="1216" key="DiffContextDialog" timestamp="1631949975317">
+      <screen x="1920" y="383" width="2560" height="1400" />
+    </state>
+    <state x="2012" y="475" width="2376" height="1216" key="DiffContextDialog/0.0.1920.1040/1920.383.2560.1400@1920.383.2560.1400" timestamp="1631949975317" />
+    <state x="2909" y="798" key="MultipleFileMergeDialog" timestamp="1631949919851">
+      <screen x="1920" y="383" width="2560" height="1400" />
+    </state>
+    <state x="2909" y="798" key="MultipleFileMergeDialog/0.0.1920.1040/1920.383.2560.1400@1920.383.2560.1400" timestamp="1631949919851" />
+  </component>
+</project>
